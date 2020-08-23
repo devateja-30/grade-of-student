@@ -1,4 +1,5 @@
-ALGORITHM
+Aim: algorithm to print grade obtained by a student
+ALGORITHM:
 step1:start
 step2:input math #(maths)
 step3:input chem #(chemistry)
